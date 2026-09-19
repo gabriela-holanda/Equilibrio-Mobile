@@ -1,0 +1,5 @@
+-- O Equilíbrio usa um banco local em arquivo JSON para rodar sem PostgreSQL/Docker.
+-- Este arquivo é apenas uma referência da estrutura lógica dos dados.
+-- O arquivo real é criado automaticamente em database/equilibrio-db.json.
+-- Cada usuário possui: perfil, tarefas, estudos, bem-estar, hábitos, diário,
+-- consultas, profissionais, contatos, documentos, localização, configurações e segurança.
